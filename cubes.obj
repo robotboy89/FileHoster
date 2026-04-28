@@ -1,6 +1,5 @@
 # Blender 5.0.0
 # www.blender.org
-mtllib cubes.mtl
 o mesh
 v -0.121670 -0.040557 -0.060835
 v -0.081113 -0.040557 -0.060835
